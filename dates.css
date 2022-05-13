@@ -39,3 +39,9 @@ h1{
     contain:content;
     overflow: auto;
 }
+
+@media only screen and (max-width: 600px) {
+    img {
+     height:150px;
+    }
+  }
